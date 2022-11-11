@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CollapsingToolbarExample</string>
+    <string name="action_settings">Settings</string>
+	<string name="recent_news">Da Nang International Fireworks Festival 2023</string>
+	<string name="in_news">Da Nang plans to organize the Fireworks Festival from June 3 to July 2023,to promote tourism after a delay due to Covid-19. According to the People Committe at Da Nang City,the city will organize the International Fireworks Festival DIFF 2023 at Han River port area, with a grandstand size of about 17,000  seats.</string>
+	<string name="publis_date">November 8 2022 10:30:11</string>
+</resources>
